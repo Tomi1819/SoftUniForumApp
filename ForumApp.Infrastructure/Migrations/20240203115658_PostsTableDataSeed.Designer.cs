@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ForumApp.Infrastructure.Migrations
 {
     [DbContext(typeof(ForumAppDbContext))]
-    [Migration("20240203114734_PostsTableDataSeed")]
+    [Migration("20240203115658_PostsTableDataSeed")]
     partial class PostsTableDataSeed
     {
         /// <inheritdoc />

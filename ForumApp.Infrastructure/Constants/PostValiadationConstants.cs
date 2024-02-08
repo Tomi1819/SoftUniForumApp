@@ -9,6 +9,6 @@
         public const int ContentMaxLenght = 1500;
 
         public const string RequiredErrorMessage = "The {0} is required";
-        public const string StringLenghtMessage = "The {field} must be between {2} and {1} characters.";
+        public const string StringLenghtMessage = "The {0} must be between {2} and {1} characters.";
     }
 }
